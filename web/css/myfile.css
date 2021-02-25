@@ -1,0 +1,19 @@
+.center {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 100px;
+  border: 3px solid lightblue;
+  padding: 10px;
+  border-radius: 20px
+}
+
+.centerText{
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+body {
+ background-image: url("hotel.jpg");
+}	
